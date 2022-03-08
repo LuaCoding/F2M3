@@ -1,0 +1,11 @@
+C:\F2M3\C#\les01\bin\Debug\netcoreapp2.1\les01.deps.json
+C:\F2M3\C#\les01\bin\Debug\netcoreapp2.1\les01.runtimeconfig.json
+C:\F2M3\C#\les01\bin\Debug\netcoreapp2.1\les01.runtimeconfig.dev.json
+C:\F2M3\C#\les01\bin\Debug\netcoreapp2.1\les01.dll
+C:\F2M3\C#\les01\bin\Debug\netcoreapp2.1\les01.pdb
+C:\F2M3\C#\les01\obj\Debug\netcoreapp2.1\les01.csprojAssemblyReference.cache
+C:\F2M3\C#\les01\obj\Debug\netcoreapp2.1\les01.csproj.CoreCompileInputs.cache
+C:\F2M3\C#\les01\obj\Debug\netcoreapp2.1\les01.AssemblyInfoInputs.cache
+C:\F2M3\C#\les01\obj\Debug\netcoreapp2.1\les01.AssemblyInfo.cs
+C:\F2M3\C#\les01\obj\Debug\netcoreapp2.1\les01.dll
+C:\F2M3\C#\les01\obj\Debug\netcoreapp2.1\les01.pdb

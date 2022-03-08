@@ -1,0 +1,10 @@
+C:\Users\jussy\source\repos\les01return\les01return\bin\Debug\netcoreapp2.1\les01return.deps.json
+C:\Users\jussy\source\repos\les01return\les01return\bin\Debug\netcoreapp2.1\les01return.runtimeconfig.json
+C:\Users\jussy\source\repos\les01return\les01return\bin\Debug\netcoreapp2.1\les01return.runtimeconfig.dev.json
+C:\Users\jussy\source\repos\les01return\les01return\bin\Debug\netcoreapp2.1\les01return.dll
+C:\Users\jussy\source\repos\les01return\les01return\bin\Debug\netcoreapp2.1\les01return.pdb
+C:\Users\jussy\source\repos\les01return\les01return\obj\Debug\netcoreapp2.1\les01return.csproj.CoreCompileInputs.cache
+C:\Users\jussy\source\repos\les01return\les01return\obj\Debug\netcoreapp2.1\les01return.AssemblyInfoInputs.cache
+C:\Users\jussy\source\repos\les01return\les01return\obj\Debug\netcoreapp2.1\les01return.AssemblyInfo.cs
+C:\Users\jussy\source\repos\les01return\les01return\obj\Debug\netcoreapp2.1\les01return.dll
+C:\Users\jussy\source\repos\les01return\les01return\obj\Debug\netcoreapp2.1\les01return.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "les02variables", "les02variables\les02variables.csproj", "{99C03FE4-E4D5-486B-B0F2-0486E9DC2F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C03FE4-E4D5-486B-B0F2-0486E9DC2F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C03FE4-E4D5-486B-B0F2-0486E9DC2F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C03FE4-E4D5-486B-B0F2-0486E9DC2F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C03FE4-E4D5-486B-B0F2-0486E9DC2F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D45E25C-06AA-4661-A7A4-26637B8C59A9}
+	EndGlobalSection
+EndGlobal

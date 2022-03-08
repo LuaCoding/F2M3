@@ -1,0 +1,10 @@
+C:\Users\jussy\source\repos\les02variables\les02variables\obj\Debug\netcoreapp2.1\les02variables.csproj.CoreCompileInputs.cache
+C:\Users\jussy\source\repos\les02variables\les02variables\obj\Debug\netcoreapp2.1\les02variables.AssemblyInfoInputs.cache
+C:\Users\jussy\source\repos\les02variables\les02variables\obj\Debug\netcoreapp2.1\les02variables.AssemblyInfo.cs
+C:\Users\jussy\source\repos\les02variables\les02variables\bin\Debug\netcoreapp2.1\les02variables.deps.json
+C:\Users\jussy\source\repos\les02variables\les02variables\bin\Debug\netcoreapp2.1\les02variables.runtimeconfig.json
+C:\Users\jussy\source\repos\les02variables\les02variables\bin\Debug\netcoreapp2.1\les02variables.runtimeconfig.dev.json
+C:\Users\jussy\source\repos\les02variables\les02variables\bin\Debug\netcoreapp2.1\les02variables.dll
+C:\Users\jussy\source\repos\les02variables\les02variables\bin\Debug\netcoreapp2.1\les02variables.pdb
+C:\Users\jussy\source\repos\les02variables\les02variables\obj\Debug\netcoreapp2.1\les02variables.dll
+C:\Users\jussy\source\repos\les02variables\les02variables\obj\Debug\netcoreapp2.1\les02variables.pdb

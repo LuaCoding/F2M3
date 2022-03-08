@@ -1,0 +1,10 @@
+C:\Users\jussy\source\repos\les02arrays\les02arrays\bin\Debug\netcoreapp2.1\les02arrays.deps.json
+C:\Users\jussy\source\repos\les02arrays\les02arrays\bin\Debug\netcoreapp2.1\les02arrays.runtimeconfig.json
+C:\Users\jussy\source\repos\les02arrays\les02arrays\bin\Debug\netcoreapp2.1\les02arrays.runtimeconfig.dev.json
+C:\Users\jussy\source\repos\les02arrays\les02arrays\bin\Debug\netcoreapp2.1\les02arrays.dll
+C:\Users\jussy\source\repos\les02arrays\les02arrays\bin\Debug\netcoreapp2.1\les02arrays.pdb
+C:\Users\jussy\source\repos\les02arrays\les02arrays\obj\Debug\netcoreapp2.1\les02arrays.csproj.CoreCompileInputs.cache
+C:\Users\jussy\source\repos\les02arrays\les02arrays\obj\Debug\netcoreapp2.1\les02arrays.AssemblyInfoInputs.cache
+C:\Users\jussy\source\repos\les02arrays\les02arrays\obj\Debug\netcoreapp2.1\les02arrays.AssemblyInfo.cs
+C:\Users\jussy\source\repos\les02arrays\les02arrays\obj\Debug\netcoreapp2.1\les02arrays.dll
+C:\Users\jussy\source\repos\les02arrays\les02arrays\obj\Debug\netcoreapp2.1\les02arrays.pdb
