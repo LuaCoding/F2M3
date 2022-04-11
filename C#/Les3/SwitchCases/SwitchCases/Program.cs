@@ -1,15 +1,14 @@
 ﻿using System;
 
-namespace Switch_Cases
+namespace Switch
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int myInt = 1;
-            parsed = int.Parsed(myInt);
+            int myInt = Convert.ToInt32(Console.ReadLine());
 
-            switch (parsed)
+            switch (myInt)
             {
                 case 0:
                     Console.WriteLine("hallo, dit is case 0");
